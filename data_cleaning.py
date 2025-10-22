@@ -10,5 +10,5 @@ def transform_data():
 	print("Data transformation completed successfully ✅ ")
 	
 if __name__==  "__main__":
-	df = transform_data()
+	df= transform_data()
 	print(df)
