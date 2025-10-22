@@ -1,5 +1,6 @@
 import pandas as pd
 
+
 def data_extract():
     raw_data = []
     months = range(1, 12+1)
