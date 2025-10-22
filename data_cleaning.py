@@ -1,4 +1,4 @@
-#This file contains data cleaning process
+#This file contains data simple cleaning script
 
 import pandas as pd
 from data_extraction import data_extract
