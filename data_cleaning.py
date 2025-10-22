@@ -2,7 +2,12 @@
 
 import pandas as pd
 
-
+from data_extraction import data_extract
 
 def transform_data():
-    
+	df = data_extract()
+	
+	
+	
+if__name__==  "__main__"
+	transform_data()
